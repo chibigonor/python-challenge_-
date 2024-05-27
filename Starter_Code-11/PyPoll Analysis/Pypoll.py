@@ -1,7 +1,7 @@
 import csv
 
 # Define the file path
-file_path = "/Users/davidtecuatl/Desktop/SS Bootcamp/python-challenge_-/Starter_Code-11/PyPoll/Resources/election_data.csv"
+file_path = "Starter_Code-11/PyPoll/Resources/election_data.csv"
 
 # Initialize variables to store election data
 total_votes = 0

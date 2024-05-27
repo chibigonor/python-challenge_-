@@ -1,7 +1,7 @@
 import csv
 
 # Define the file path
-file_path = "/Users/davidtecuatl/Desktop/SS Bootcamp/python-challenge_-/Starter_Code-11/PyBank/Resources/budget_data.csv"
+file_path = "Starter_Code-11/PyBank/Resources/budget_data.csv"
 
 # Variables to store financial data
 total_months = 0
